@@ -1,0 +1,31 @@
+# Ignore dataset folders
+Twenty_Newsgroups/
+*.csv
+*.tsv
+*.xlsx
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code and other IDE settings
+.vscode/
+.idea/
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore ZIPs or other archives
+*.zip
+*.tar.gz
+*.rar
